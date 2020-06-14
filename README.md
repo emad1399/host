@@ -36,6 +36,8 @@ ff02::3 ip6-allhosts
 0.0.0.1 cloudctrl.codm.activision.com
 0.0.0.1 codm.garena.com
 0.0.0.1 speed.codm.garena.com
-0.0.0.1 codm.garena.tw
-0.0.0.1 garena.tw
+0.0.0.1 www.codm.garena.tw
+0.0.0.1 www.garena.tw
+0.0.0.1 www.garena.com
+
 
