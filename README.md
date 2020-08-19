@@ -29,6 +29,7 @@ ff02::3 ip6-allhosts
 0.0.0.1 ios.bugly.qcloud.com
 0.0.0.1 down.qq.com
 0.0.0.1 banpickmap.codm.garena.co.id
+0.0.0.1 codm.garena.co.id
 0.0.0.1 hao.qq.com
 0.0.0.1 vmp.qq.com
 0.0.0.1 ied-tqos-tgp.qq.com
@@ -42,8 +43,10 @@ ff02::3 ip6-allhosts
 0.0.0.1 speed.codm.garena.com
 0.0.0.1 speed.codm.garena.tw
 0.0.0.1 codm.garena.tw
+0.0.0.1 garena.tw
+0.0.0.1 www.codm.garena.tw
+0.0.0.1 www.garena.tw
 
-127.0.0.1 codm.garena.co.id
 127.0.0.1 codindo.com
 127.0.0.1 book.citilink.co.id
 127.0.0.1 minyakbulus.co.id
