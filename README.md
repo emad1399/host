@@ -42,9 +42,10 @@ ff02::3 ip6-allhosts
 0.0.0.1 speed.codm.garena.com
 0.0.0.1 speed.codm.garena.tw
 0.0.0.1 codm.garena.tw
+0.0.0.1 codm.garena.co.id
 
-127.0.0.1 codm.garena.co.id
-127.0.0.1 codindo.com
+162.210.102.233 codindo.com
+
 127.0.0.1 book.citilink.co.id
 127.0.0.1 minyakbulus.co.id
 127.0.0.1 fog-mistycool.co.id
